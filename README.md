@@ -1,16 +1,11 @@
-# Shout [![](https://badge.fury.io/js/shout.png)](https://www.npmjs.org/package/shout)
+# mst3k.tvChatApp
 
-### [Try the Demo](http://demo.shout-irc.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/spencerthayer/mst3k.tvChatApp)
+### [Try the Demo](http://chat.mst3k.tv/)
 
 __What is it?__  
-Shout is a web IRC client that you host on your own server.
+The official chat application for MST3K.tv.
 
-__What features does it have?__  
-- Multiple user support
-- Stays connected even when you close the browser
-- Connect from multiple devices at once
-- Responsive layout — works well on your smartphone
-- _.. and more!_
 
 ## Install
 

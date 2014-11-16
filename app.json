@@ -1,0 +1,9 @@
+{
+  "name": "mst3k.tvChatApp",
+  "author": "Spencer Thayer",
+  "version": "0.0.13",
+  "description": "The official chat application for MST3K.tv.",
+  "repository": "https://github.com/spencerthayer/mst3k.tvChatApp.git",
+  "logo": "http://mst3k.tv/img/play-mst3k.png",
+  "keywords": ["node", "express", "socket", "cryptojs", "chat", "secure"]
+}
