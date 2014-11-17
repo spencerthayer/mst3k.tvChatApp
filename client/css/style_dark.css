@@ -5,23 +5,23 @@
 	src: url("fonts/fontawesome.svg") format("svg"), url("fonts/fontawesome.woff") format("woff");
 }
 /*
-020102
+000000
 body {
-	background: #020102;
-	background: #020102;
+	background: #000000;
+	background: #000000;
 	}
 .tooltip-inner {
 	color: #262c36;
 	}
 .btn {
-	border: 2px solid #020102;
+	border: 2px solid #000000;
 	border: 2px solid #428bca;
 	border-radius: 3px;
-	color: #020102;
+	color: #000000;
 	color: #428bca;
 	}
 .btn:hover {
-	background: #020102;
+	background: #000000;
 	background: #428bca;
 	color: #fff;
 	}
@@ -214,7 +214,7 @@ body {
 }
 body {
 	color: #fff;
-	background: #020102;
+	background: #000000;
 	font: 16px Lato, sans-serif;
 	margin: 0;
 }
@@ -250,10 +250,10 @@ button {
 	border-top-color: #fff;
 }
 .btn {
-	border: 2px solid #020102;
+	border: 2px solid #000000;
 	border: 2px solid #428bca;
 	border-radius: 3px;
-	color: #020102;
+	color: #000000;
 	color: #428bca;
 	display: inline-block;
 	font: bold 12px Lato, sans-serif;
@@ -266,7 +266,7 @@ button {
 }
 .btn:disabled,
 .btn:hover {
-	background: #020102;
+	background: #000000;
 	background: #428bca;
 	color: #fff;
 }
@@ -540,7 +540,7 @@ button {
 	font-size: 14px;
 }
 #windows .input {
-	background: none repeat scroll 0 0 #020102;
+	background: none repeat scroll 0 0 #000000;
 	border: 1px solid #cdd3da;
 	border-radius: 2px;
 	color: #fff;
@@ -570,7 +570,7 @@ button {
 */
 #windows .chan,
 #windows .window {
-	background: #020102;
+	background: #000000;
 	bottom: 0;
 	display: none;
 	left: 0;
