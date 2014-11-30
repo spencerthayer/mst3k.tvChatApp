@@ -1,1 +1,1 @@
-pm2 start shout.sh
+web: node .;

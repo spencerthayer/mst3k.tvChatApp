@@ -6,12 +6,23 @@
 __What is it?__  
 The official chat application for MST3K.tv.
 
+
 ## Install
 
 ```
-sudo npm install
+sudo npm install -g shout
 ```
 
 ## Usage
 
-When the install is complete, go ahead and run this in your terminal.
+When the install is complete, go ahead and run this in your terminal:
+
+```
+shout --help
+```
+
+For more information, read the [documentation](http://shout-irc.com/docs/).
+
+## License
+
+Available under [the MIT license](http://mths.be/mit).
