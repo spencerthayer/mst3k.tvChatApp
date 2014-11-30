@@ -1,1 +1,1 @@
-web: node .;
+pm2 start start.sh
